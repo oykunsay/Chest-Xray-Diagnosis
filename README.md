@@ -10,3 +10,7 @@ This project focuses on detecting thoracic diseases using the NIH ChestX-ray14 d
 - Fine-tuning for better performance
 - Automatic radiology report generation in medical format
 - Confusion matrix visualization
+
+## Dataset
+This project uses the NIH ChestX-ray14 dataset:
+- https://www.kaggle.com/organizations/nih-chest-xrays/datasets
