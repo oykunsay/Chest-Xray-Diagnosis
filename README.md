@@ -14,3 +14,6 @@ This project focuses on detecting thoracic diseases using the NIH ChestX-ray14 d
 ## Dataset
 This project uses the NIH ChestX-ray14 dataset:
 - https://www.kaggle.com/organizations/nih-chest-xrays/datasets
+The dataset is not included in this repository. Please download it manually from Kaggle.
+
+
